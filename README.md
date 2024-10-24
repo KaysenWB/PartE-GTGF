@@ -1,5 +1,5 @@
 # PartE-GTGF
 Multimodal vessel trajectory prediction with generation flow models and spatio-temporal transformers. 
-The input data are trajectory data of shape [length, batch, feature], and a corresponding adjacency matrix [length, nodes, nodes], which can be referred to the following code for data processing:
+The input data are trajectory data of shape [length, batch, feature], and a corresponding adjacency matrix [length, nodes, nodes], which can be referred to the following code for data processing: https://github.com/KaysenWB/AIS-Process
 
 Several key designs are hidden because the article to which the code corresponds has not yet been completed for publication. A full code version will be uploaded after the article is accepted. This version is to demonstrate the author's coding ability and deep learning skills, and thus PhD application.
